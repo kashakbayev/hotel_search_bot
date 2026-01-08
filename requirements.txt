@@ -1,0 +1,6 @@
+python-telegram-bot
+python-telegram-bot-calendar
+python-telegram-bot-pagination
+requests
+python-dotenv
+peewee
